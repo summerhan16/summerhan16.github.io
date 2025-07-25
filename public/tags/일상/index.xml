@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>일상 on Summer&#39;s Archive</title>
+    <link>https://summerhan16.github.io/tags/%EC%9D%BC%EC%83%81/</link>
+    <description>Recent content in 일상 on Summer&#39;s Archive</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://summerhan16.github.io/tags/%EC%9D%BC%EC%83%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>시작</title>
+      <link>https://summerhan16.github.io/posts/start/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://summerhan16.github.io/posts/start/</guid>
+      <description>&lt;p&gt;첫시작.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
