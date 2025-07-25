@@ -1,7 +1,7 @@
 ---
-title: "시작"
-date: 2025-07-25
-categories: ["life"]  
-tags: ["일상"]
+title: "Start"
+date: 2025-07-25T00:00:00Z
+draft: false
+categories: ["posts"]
+tags: ["intro"]
 ---
-첫시작.
