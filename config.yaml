@@ -22,30 +22,24 @@ params:
     disableFingerprinting: true
   
   footer:
-    text: "© 2025 Summer Han. All rights reserved.迂遠."
+    text: "© 2025 Summer Han. All rights reserved. 迂遠."
 
-  mainSections: ["posts"]
 
 menu:
   main:
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 0
-
     - identifier: paper-review
       name: Paper Review
       url: /categories/paper-review/
       weight: 1
 
     - identifier: code
-      name: Code
+      name: Coding & Projects
       url: /categories/code/
       weight: 2
     
-    - identifier: til
-      name: TIL
-      url: /categories/til/
+    - identifier: coding-prep
+      name: Coding Prep
+      url: /categories/coding_prep/
       weight: 3
 
     - identifier: life
